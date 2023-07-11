@@ -28,7 +28,7 @@ To use the Battery Notification System for Windows, follow these steps:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your_username/your_project.git
+   git clone https://github.com/sumanthpagadala/Battery-Status.git
    ```
 
 2. Install the required dependencies:
@@ -69,15 +69,15 @@ If you have a gaming laptop or a specific use case where the battery needs to be
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/your_username/your_project/blob/main/LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/sumanthpagadala/Battery-Status/blob/main/LICENSE) file for more details.
 
 ## Acknowledgments
 
-We would like to express our gratitude to the open-source community for their contributions and the developers of the `psutil` and `plyer` libraries, which have made this project possible.
+I would like to express our gratitude to the open-source community for their contributions and the developers of the `psutil` and `plyer` libraries, which have made this project possible.
 
 ## Contact
 
-For any questions or inquiries, please feel free to reach out to the project maintainer at your_email@example.com.
+For any questions or inquiries, please feel free to reach out to the project maintainer at pagadala.sumanth2002@gmail.com
 
 ---
 
