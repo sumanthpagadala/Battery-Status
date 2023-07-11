@@ -1,6 +1,6 @@
 # Battery Notification System for Windows
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)]https://github.com/sumanthpagadala/Battery-Status/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/sumanthpagadala/Battery-Status/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/sumanthpagadala/Battery-Status.svg)](https://github.com/sumanthpagadala/Battery-Status/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/sumanthpagadala/Battery-Status.svg)](https://github.com/sumanthpagadala/Battery-Status/network)
 [![GitHub issues](https://img.shields.io/github/issues/sumanthpagadala/Battery-Status.svg)](https://github.com/sumanthpagadala/Battery-Status/issues)
