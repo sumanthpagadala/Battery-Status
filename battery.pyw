@@ -10,10 +10,10 @@ while True:
     percentage = battery.percent
 
     if percentage == FULL_CHARGE:
-        notification.notify(title="Battery Notification", message="Charging full, time to unplug.", timeout=None)
+        notification.notify(title="Battery Notification", message="Charging full, Time to remove the plug.", timeout=None)
 
     elif percentage < MIN_BATTERY_THRESHOLD:
         notification.notify(title="Battery Notification", message="Low battery, consider charging.", timeout=None)
 
-    # Sleep for 1 minute before checking again
-    sleep(60)
+    # Sleep for 6 minute before checking again
+    sleep(6*60)
