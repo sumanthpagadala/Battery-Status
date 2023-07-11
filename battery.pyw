@@ -17,3 +17,9 @@ while True:
 
     # Sleep for 6 minute before checking again
     sleep(6*60)
+    
+    #quick check
+    if percentage == FULL_CHARGE:
+        notification.notify(title="Battery Notification", message="Charging full, Time to remove the plug.", timeout=None)
+    
+
